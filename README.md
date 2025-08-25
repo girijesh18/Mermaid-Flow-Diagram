@@ -42,6 +42,3 @@ To create a high-resolution PNG, we can't just save the SVG. Instead, the script
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/your-repository/issues) if you want to contribute.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
